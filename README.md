@@ -15,5 +15,5 @@ Technologies Used
 
 Ruby
 Sinatra
-Berokuootstrap
+Bootstrap
 CSS
